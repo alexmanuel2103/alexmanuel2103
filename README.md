@@ -1,4 +1,4 @@
-- 👋 ¡Saludos! Me llamo Alex Manuel, gracias por revisar este apartado, aquí tienes un resumen acerca de mi😊.
+- 👋 ¡Saludos! Me llamo Manuel, gracias por revisar este apartado, aquí tienes un resumen acerca de mi😊.
 - 👀 Mis interéses son:
     - 📹🎬Edición de vídeo
     - ⚙️🖥️Desarrollo de sistemas operativos
@@ -8,6 +8,7 @@
     - 🐧Linux
 - 🎓 Mis resumen académico es:
     - 🎓📜Técnico en programación
+    - 💻🔒Certificación de Cisco Networking Academy en Ciberseguridad.
     - 🖥️⚙️Estudio actualmente una carrera universitaria de TSU en Tecnologías de la Información.
 - 🦁❤️ Me gustan los leones.
 - 💞️ Por el momento trabajo como programador independiente.
