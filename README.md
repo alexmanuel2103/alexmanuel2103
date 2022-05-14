@@ -1,39 +1,20 @@
-# Acerca de Manuel Barraza
-¡Hola! Soy Manuel Barraza y soy un estudiante en la carrera de Tecnologías de la Información en la UTCH BIS con una especialidad de Técnico Superior Universitario en Desarrollo de Software Multiplataforma.
+# Hi! I'm Manuel Barraza.
+
+I am a university student that studies the career of Information Technologies with a speciality of Cross-Platform Software Development at UTCH BIS. I love my career and developing software. Also, I like lions.
 <br>
 <br>
-Estos son los lenguajes de programación los cuales he trabajado:
+This is my techstack:
 <br>
-* C
-* C#
-* HTML5
-* CSS3
-* Java
-* JavaScript
-* MySQL
+* Programming languages: C, C#, MySQL, Java, HTML5, CSS3, Python and JavaScript.
+* IDE: Android Studio and VS Code.
+* Workflow: Git and GitHub.
+* Frameworks: Bootstrap, React and React Native.
+* Databases: MySQL and MySQLite.
+* Embedded systems: Arduino.
+* Certifications:<br>-Introduction to cybersecurity from Cisco Networking Academy <br>-Cybersecurity essentials from Cisco Networking Academy.
+* Favorite software development area: Mobile Software Development Area.
+
+Feel free to check through my repositories, and if you want to contact me and keep in touch, you can send me an email clicking the address below:
 <br>
-Frameworks y tecnologías con los cuales he trabajado:
-<br>
-* Android Studio
-* React
-* React Native
-* Arduino
-<br>
-IDE de preferencia:
-<br>
-* VS Code
-<br>
-<br>
-Certificaciones:
-<br>
-Introduction to cybersecurity - Cisco Networking Academy
-<br>
-Cybersecurity essentials - Cisco Network Academy
-<br>
-<br>
-Siéntate libre de revisar mis repositorios de GitHub si te interesa :)
-<br>
-Al igual si estás interesado de comunicarte conmigo aquí te dejaré mi información de contacto:
 <br>
 <mailto>barrazaalexmanuel@gmail.com
-uwu
