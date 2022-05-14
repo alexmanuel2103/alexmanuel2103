@@ -1,8 +1,6 @@
 # Acerca de Manuel Barraza
-## ¡Hola! Soy Manuel Barraza y soy un estudiante en la carrera de Tecnologías de la Información en la UTCH BIS con una especialidad de Técnico Superior Universitario en Desarrollo de Software Multiplataforma.
-<br>
-<br>
-### Mi información de contacto es la siguiente:
+¡Hola! Soy Manuel Barraza y soy un estudiante en la carrera de Tecnologías de la Información en la UTCH BIS con una especialidad de Técnico Superior Universitario en Desarrollo de Software Multiplataforma.
+
 <br>
 
 <!---
