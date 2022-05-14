@@ -1,4 +1,4 @@
-##Acerca de Manuel Barraza
+## Acerca de Manuel Barraza
 ¡Hola! Soy Manuel Barraza, soy un estudiante en la carrera de Tecnologías de la Información.
 <br>
 <br>
