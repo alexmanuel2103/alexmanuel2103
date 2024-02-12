@@ -1,4 +1,4 @@
-![js](https://github.com/alexmanuel2103/alexmanuel2103/assets/80539239/8b25ac2f-971f-4b5e-b308-d1f8af1d9fb6)# Hi! I'm Manuel Barraza.
+# Hi! I'm Manuel Barraza.
 
 I am a university student that studies the career of Information Technologies with a speciality of Cross-Platform Software Development at UTCH BIS. I love my career and developing software. Also, I like lions.
 <br>
